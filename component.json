@@ -1,0 +1,19 @@
+{
+  "name": "gmap-api",
+  "repo": "mikerudolph/gmap-api",
+  "description": "A cleaner Google Maps API interface",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "learnboost/jsonp": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "gmap-api.css"
+  ]
+}
